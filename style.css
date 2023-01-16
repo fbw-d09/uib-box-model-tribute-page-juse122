@@ -20,7 +20,7 @@ header
 .image
 {
     width: 800px;
-    height: 600px;
+    height: 550px;
     background: url(orianna.jpg);
     background-size: cover;
     background-position: right;
@@ -58,7 +58,7 @@ cite p
     display: inline-block;
     width: 44px;
     height: 44px;
-    margin: 0 5px;
+    margin: 1em 5px 0 5px;
     border-radius: 5px;
 }
 
